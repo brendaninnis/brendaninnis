@@ -1,5 +1,5 @@
 # Hello 👋 I'm Brendan Innis
-###### I am a software developer learning in public
+##### Software developer learning in public
 
 
 This GitHub contains a repository of my personal projects, as well as my personal blog which is hosted at https://brendaninnis.ca
