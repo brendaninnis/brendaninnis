@@ -25,7 +25,7 @@ Daily Fat Counter is an app I created for my wife. She was required to be on a f
 
 Satle is a game built with HTML/CSS/JavaScript, as well as the Bootstrap library, where you have to guess the name of a city based on satellite images. After each incorrect guess, the image will zoom out and you will be shown the distance and direction from your guess to the answer city. I was inspired by the Wordle-like games my colleagues and I play in our #trivia Slack channel, Worldle and Heardle, and I decided to make my own game for us to play. I've had a lot of positive feedback and the site has attracted over 6000 users in it's first month. I hosted the game with Linode as a subdomain on the domain I use for my blog. Give it a try [here](https://satle.brendaninnis.ca).
 
-<img alt="Satle" src="https://github.com/brendaninnis/brendaninnis/raw/master/satle.webm"></img>
+<img alt="Satle" src="https://brendaninnis.ca/uploads/satle.webm"></img>
 
 - - -
 
