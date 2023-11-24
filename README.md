@@ -17,7 +17,7 @@ You can find me on these other platforms:
 
 Reality Dice is an Augmented Reality iOS App that lets you roll realistic polyhedral 3D dice in your physical envrionment. Dice can collide with real world objects in your environment, use realistic physics and have authentic sound effects. You can view the results of your rolls through your device camera and see it calculated in the UI. It can be downloaded on the App Store [here](https://apps.apple.com/us/app/reality-dice/id6460648236).
 
-<img alt="Reality Dice" src="https://realitywargames.ca/images/reality-dice-preview.gif"></img>
+<img alt="Reality Dice" src="images/reality-dice-preview.gif?raw=true"></img>
 
 - - -
 
