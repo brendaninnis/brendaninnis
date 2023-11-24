@@ -13,6 +13,14 @@ You can find me on these other platforms:
 ## Side Projects
 ###### These are a few things I have done in my spare time, and that I am proud to share with others. All projects source code are available in my public repositories.
 
+### Reality Dice
+
+Reality Dice is an Augmented Reality iOS App that lets you roll realistic polyhedral 3D dice in your physical envrionment. Dice can collide with real world objects in your environment, use realistic physics and have authentic sound effects. You can view the results of your rolls through your device camera and see it calculated in the UI. It can be downloaded on the App Store [here](https://apps.apple.com/us/app/reality-dice/id6460648236).
+
+<img alt="Daily Fat Counter" src="https://realitywargames.ca/images/reality-dice-preview.gif" style="width: 320px; height: auto;"></img>
+
+- - -
+
 ### Daily Fat Counter - iOS and Android Apps
 
 Daily Fat Counter is an app I created for my wife. She was required to be on a fat-restricted diet, and Daily Fat Counter helps people to manage their low fat diets by counting the amount of dietary fat you consume throughout each day. I developed the iOS app using Swift UI, and the Android app using Kotlin and Jetpack components. The apps are available for download on the [App Store](https://apps.apple.com/app/id1631074004) and [Google Play Store](https://play.google.com/store/apps/details?id=ca.brendaninnis.dailyfatcounter).
